@@ -1,0 +1,30 @@
+2023-08-06 02:37:21.707204 - Initialized conversion of CBT271
+2023-08-06 02:37:21.881701 - Received CBT.V505.FILE271.PDS from FILE271.XMI 
+2023-08-06 02:37:21.884167 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:37:21.884176 - Found ##V3R2M4.bin containing application/octet-stream, moved to PDS/##V3R2M4
+2023-08-06 02:37:21.885190 - Found #CHANGES.bin containing application/octet-stream, moved to PDS/#CHANGES
+2023-08-06 02:37:21.887063 - Found #CPYRITE.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#CPYRITE
+2023-08-06 02:37:21.887070 - Found #DINSTLL.bin containing application/octet-stream, moved to PDS/#DINSTLL
+2023-08-06 02:37:21.889136 - Found #DISTRIB.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#DISTRIB
+2023-08-06 02:37:21.889145 - Found #INSTALL.bin containing application/octet-stream, moved to PDS/#INSTALL
+2023-08-06 02:37:21.890094 - Found #USERGDE.bin containing application/octet-stream, moved to PDS/#USERGDE
+2023-08-06 02:37:21.892045 - Found #YSP311.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#YSP311
+2023-08-06 02:37:21.892981 - Found #YSP312.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#YSP312
+2023-08-06 02:37:21.894002 - Found #YSP313.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#YSP313
+2023-08-06 02:37:21.894011 - Found #YSP314.bin containing application/octet-stream, moved to PDS/#YSP314
+2023-08-06 02:37:21.895936 - Found #ZSP131.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#ZSP131
+2023-08-06 02:37:21.896827 - Found #ZSP132.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#ZSP132
+2023-08-06 02:37:21.897926 - Found #ZSP133.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#ZSP133
+2023-08-06 02:37:21.897934 - Found #ZSP134.bin containing application/octet-stream, moved to PDS/#ZSP134
+2023-08-06 02:37:21.899869 - Found #ZSP211.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#ZSP211
+2023-08-06 02:37:21.900749 - Found #ZSP212.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#ZSP212
+2023-08-06 02:37:21.901652 - Found #ZSP213.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#ZSP213
+2023-08-06 02:37:21.901660 - Found #ZSP214.bin containing application/octet-stream, moved to PDS/#ZSP214
+2023-08-06 02:37:21.903583 - Found #ZSP221.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#ZSP221
+2023-08-06 02:37:21.904464 - Found #ZSP222.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#ZSP222
+2023-08-06 02:37:21.905425 - Found #ZSP223.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/#ZSP223
+2023-08-06 02:37:21.905433 - Found #ZSP224.bin containing application/octet-stream, moved to PDS/#ZSP224
+2023-08-06 02:37:21.907322 - Found @FILE271.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/@FILE271
+2023-08-06 02:37:21.908226 - Found IEFCVRWA.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/IEFCVRWA
+2023-08-06 02:37:21.909270 - Found IEFVPP.txt (text/plain) in CBT.V505.FILE271.PDS, moved to PDS/IEFVPP
+2023-08-06 02:37:21.909279 - Found VPPOBJ.bin containing application/octet-stream, moved to PDS/VPPOBJ
